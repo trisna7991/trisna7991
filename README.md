@@ -1,4 +1,4 @@
-Hi there 👋,  **Trisna** here 👇I am learning JavaScript and several programming languages
+# Hi there 👋,  **Trisna** here 👇I am learning JavaScript and several programming languages
 
 ### This place is the location where I can write the script with fun 📝
 
