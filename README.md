@@ -36,4 +36,4 @@ _"When you have written many programs be assured that you can't make the same th
 
 </details>
 
-<hr>
+<!-- <hr> -->
