@@ -1,4 +1,4 @@
-<img src="js.png" align="right" style="height: 100px"/>
+<img src="js.png" align="right" style="height: 80px"/>
 
 # Hi there 👋,  **Trisna** here 👇I am learning JavaScript and several Programming Languages 
 
