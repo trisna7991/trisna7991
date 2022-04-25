@@ -2,7 +2,7 @@
 
 ### This place is the location where I can write the script with fun 📝
 
-_"When you have written many programs be assured that you can't make the same thing when the data is gone"_
+_"When you have written many programs be assured that you can't make the same thing when the data is gone"_ :pencil2:
 
 **What have I learned** 
 
@@ -10,7 +10,7 @@ _"When you have written many programs be assured that you can't make the same th
 * HyperText Markup Language or HTML
 * Cascading Style Sheets or CSS
 * Vanilla JavaScript
-* Mikrotik hotspot
+* Mikrotik Hotspot
 
 **Of what will and has been studied**
 
@@ -33,3 +33,6 @@ _"When you have written many programs be assured that you can't make the same th
 * https://github.com/unpineapple/hanca-packages
 
 </details>
+
+<hr>
+
