@@ -4,5 +4,5 @@
 
 ### there is a place for opensource writers and various materials, especially vanilla javascript. but also other languages
 
-* Asynchronous Fetch data From Rest API
-* Create Hotspot Login Using Mikrotik
+* :-/  Asynchronous Fetch data From Rest API
+* :-) Create Hotspot Login Using Mikrotik
