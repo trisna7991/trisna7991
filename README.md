@@ -22,7 +22,8 @@ _"When you have written many programs be assured that you can't make the same th
 
 **What is there on my page**  ✍
 
-<details markdown='1'><summary>Vanilla JavaScript</summary>
+<details markdown='1'><summary>JavaScript</summary>
 
+* https://github.com/unpineapple/hanca-packages
 
 </details>
