@@ -1,8 +1,28 @@
-<img src="cookie-the-pom-SNf-hZz6zOY-unsplash.jpg" align="right" style="height: 84px;width: 84px"/>
+# Hi there 👋, I am Trisna and I am learning JavaScript
 
-### Hi there :rage:, I am trisna and I'm learning javascript
+### This place is the location where I can write the script with fun 📝
 
-### there is a place for opensource writers and various materials, especially vanilla javascript. but also other languages
+_"When you have written many programs be assured that you can't make the same thing when the data is gone"_
 
-* :smile:  Asynchronous Fetch data From Rest API
-* :smile: Create Hotspot Login Using Mikrotik
+**What have I learned** 
+
+
+* HyperText Markup Language or HTML
+* Cascading Style Sheets or CSS
+* Vanilla JavaScript
+* Mikrotik hotspot
+
+**Of what will and has been studied**
+
+- [x] HyperText Markup Language or HTML & Cascading Style Sheets or CSS
+
+- [x] JavaScript
+- [ ] C++
+- [ ] Java
+
+**What is there on my page**  ✍
+
+<details markdown='1'><summary>Vanilla JavaScript</summary>
+
+
+</details>
