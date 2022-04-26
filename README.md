@@ -27,6 +27,8 @@ _"When you have written many programs be assured that you can't make the same th
 - 😏 Strengthen the basic of programming
 - 🙏 See other people's programs that are better to learn
 - 🤗 Strengthen logic
+- :airplane: Dreaming Aimlessly
+- :weary: Sleep during the day stay up at night
 
 **What is there on my page**  ✍
 
