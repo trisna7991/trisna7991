@@ -1,6 +1,6 @@
 <img src="js.png" align="right" style="height: 80px"/>
 
-# Hi there 👋,  **Trisna** here 👇I am learning JavaScript and several Programming Languages 
+# Hi there 👋,  **Trisna** here 👇I am writing JavaScript and several Programming Languages 
 
 ### This place is the location where I can write the script with fun 📝
 
