@@ -16,8 +16,8 @@ _"When you have written many programs be assured that you can't make the same th
 
 **Of what will and has been studied**
 
-- [x] HyperText Markup Language or HTML & Cascading Style Sheets or CSS
-
+- [x] HyperText Markup Language or HTML
+- [x] Cascading Style Sheets or CSS
 - [x] JavaScript
 - [ ] C++
 - [ ] Java
