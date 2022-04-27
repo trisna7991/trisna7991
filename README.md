@@ -14,7 +14,7 @@ _"When you have written many programs be assured that you can't make the same th
 * Vanilla JavaScript
 * Mikrotik Hotspot -->
 
-**what I will and have learned well**
+**What I will and and I have studied well**
 
 - [x] HyperText Markup Language or HTML
 - [x] Cascading Style Sheets or CSS
