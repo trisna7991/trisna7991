@@ -6,21 +6,22 @@
 
 _"When you have written many programs be assured that you can't make the same thing when the data is gone"_ :pencil2:
 
-**What have I learned** 
+<!-- **What have I learned**  -->
 
 
-* HyperText Markup Language or HTML
+<!-- * HyperText Markup Language or HTML
 * Cascading Style Sheets or CSS
 * Vanilla JavaScript
-* Mikrotik Hotspot
+* Mikrotik Hotspot -->
 
-**Of what will and has been studied**
+**what I will and have learned well**
 
 - [x] HyperText Markup Language or HTML
 - [x] Cascading Style Sheets or CSS
 - [x] JavaScript
-- [ ] C++
+- [ ] C++ and C
 - [ ] Java
+- [ ] Mikrotik Hotspot
 
 **What will I do**
 - 🤔 Just look for more deeply about JavaScript Ajax
