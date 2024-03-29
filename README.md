@@ -34,6 +34,6 @@ _"When you have written many programs be assured that you can't make the same th
 - :rainbow: Looking for inspiration in a lonely place
 
 **What is there on my page**  ✍
-* [unpineapple/plunge](https://github.com/unpineapple/plunge)
+* [trisna7991/plunge](https://github.com/trisna7991/plunge)
 
 <!-- <hr> -->
