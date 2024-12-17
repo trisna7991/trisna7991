@@ -22,6 +22,8 @@ _"When you have written many programs be assured that you can't make the same th
 - [x] Nodejs
 - [ ] C++ and C
 - [x] Java
+- [x] Kotlin
+- [x] Android Studio 
 - [x] Mikrotik Hotspot
 
 **What will I do**
