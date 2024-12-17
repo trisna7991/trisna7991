@@ -33,7 +33,6 @@ _"When you have written many programs be assured that you can't make the same th
 - :weary: Sleep during the day stay up at night
 - :rainbow: Looking for inspiration in a lonely place
 
-**What is there on my page**  ✍
-* [trisna7991/plunge](https://github.com/trisna7991/plunge)
+
 
 <!-- <hr> -->
